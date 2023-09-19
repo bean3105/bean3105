@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Georgia</h1>
-<h3 align="center">I am a Junior Web Developer, living in London 🇬🇧.</h3>
+<h3 align="center">I am a novice web developer, living in London 🇬🇧.</h3>
 
 - 🌱 I’m currently working **to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
 
