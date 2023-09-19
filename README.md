@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there, I'm Georgia 👋
+
+Languages and Tools I work with :
+html5 css3 ruby rails bootstrap figma git heroku postgresql webpack
 
 <!--
 **bean3105/bean3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
