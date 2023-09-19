@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently working **to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.**
 
+<h4>Projects I've worked on:</h4>
 - 😂 airLOL: an Airbnb clone, selling humour - not flats! (https://github.com/bean3105/AIRLOL)
 
 - 🤸 MaxCapacity: a web application that consolidates APIs from various task management systems (eg JIRA/Asana/Trello) to display this information in a visual dashboard all in one place - targeted at Project Managers that are working with multiple teams using different tools.(https://github.com/bean3105/MaxCapacity)
